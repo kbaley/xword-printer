@@ -6,8 +6,8 @@ The app allows the user to collect a group of crossword puzzles into a single do
 
 ## Stories
 
-- [ ] User can log in with Google
-- [ ] User can log out
+- [x] User can log in with Google
+- [x] User can log out
 - [ ] User can select from a group of free crossword puzzle providers
   * [ ] USA Today
   * [ ] Wall Street Journal daily

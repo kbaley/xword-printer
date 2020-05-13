@@ -1,5 +1,7 @@
 ## Purpose: To print crosswords
 
+_Update_: After looking into the use case a bit more, I was able to achieve much of what I want using [a bash script](https://github.com/kbaley/xword-downloader/) and some Zapier. So I'll keep this here temporarily to refer to it in a blog post I'm only 20% sure I'll write.
+
 ## Description
 
 The app allows the user to collect a group of crossword puzzles into a single document and download it so that it can be printed for offline crossword entertainment.
